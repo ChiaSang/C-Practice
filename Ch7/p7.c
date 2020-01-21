@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-#define basic_salary 1000 * week_hour
-#define extra_salary 1000 * 40 + 1000 * 1.5 * (week_hour - 40)
-
 #define extra_salary 1.5
 #define tax1 0.15
 #define tax2 0.2
