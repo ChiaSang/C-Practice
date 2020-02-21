@@ -1,4 +1,4 @@
-/* use pointer to achieve return a min number from two numbers */
+/* use pointer to return a min number from two numbers */
 #include <stdio.h>
 double min(double *num1, double *num2);
 int main(int argc, char const *argv[])
